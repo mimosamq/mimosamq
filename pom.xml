@@ -15,6 +15,7 @@
         <module>mimosamq-example</module>
         <module>mimosamq-common</module>
         <module>mimosamq-distribution</module>
+        <module>mimosamq-logger</module>
     </modules>
 
     <properties>
