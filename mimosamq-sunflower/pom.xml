@@ -12,12 +12,8 @@
     <artifactId>mimosamq-sunflower</artifactId>
     <packaging>jar</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
+    <properties>
+        <project.root>${basedir}/..</project.root>
+    </properties>
+    
 </project>

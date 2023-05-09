@@ -7,9 +7,10 @@
         <groupId>com.mimosamq</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>mimosamq-distribution</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>mimosamq-filter</artifactId>
+    <packaging>jar</packaging>
 
     <properties>
         <project.root>${basedir}/..</project.root>

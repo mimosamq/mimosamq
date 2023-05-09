@@ -1,4 +1,4 @@
-package com.mimosamq.logger;
+package com.mimosamq.filter;
 
 import static org.junit.Assert.assertTrue;
 

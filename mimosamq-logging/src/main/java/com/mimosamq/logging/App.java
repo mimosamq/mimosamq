@@ -1,4 +1,4 @@
-package com.mimosamq.logger;
+package com.mimosamq.logging;
 
 /**
  * Hello world!
