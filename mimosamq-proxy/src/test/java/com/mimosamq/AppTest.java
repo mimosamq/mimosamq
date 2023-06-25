@@ -1,4 +1,4 @@
-package com.mimosamq.client;
+package com.mimosamq;
 
 import static org.junit.Assert.assertTrue;
 

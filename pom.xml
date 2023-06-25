@@ -11,8 +11,7 @@
 
     <modules>
         <module>mimosamq-broker</module>
-        <module>mimosamq-sunflower</module>
-        <module>mimosamq-client</module>
+        <module>mimosamq-namesrv</module>
         <module>mimosamq-example</module>
         <module>mimosamq-common</module>
         <module>mimosamq-distribution</module>
@@ -20,6 +19,9 @@
         <module>mimosamq-store</module>
         <module>mimosamq-filter</module>
         <module>mimosamq-acl</module>
+        <module>mimosamq-proxy</module>
+        <module>mimiosamq-controller</module>
+        <module>mimosqmq-container</module>
     </modules>
 
     <properties>
