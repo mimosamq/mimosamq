@@ -10,18 +10,19 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>mimosamq-broker</module>
         <module>mimosamq-namesrv</module>
-        <module>mimosamq-example</module>
+        <module>mimosamq-broker</module>
         <module>mimosamq-common</module>
-        <module>mimosamq-distribution</module>
+        <module>mimosamq-proxy</module>
         <module>mimosamq-logging</module>
         <module>mimosamq-store</module>
         <module>mimosamq-filter</module>
+        <module>mimosamq-controller</module>
+        <module>mimosamq-container</module>
         <module>mimosamq-acl</module>
-        <module>mimosamq-proxy</module>
-        <module>mimiosamq-controller</module>
-        <module>mimosqmq-container</module>
+        <module>mimosamq-example</module>
+        <module>mimosamq-distribution</module>
+        <module>mimosamq-client</module>
     </modules>
 
     <properties>
